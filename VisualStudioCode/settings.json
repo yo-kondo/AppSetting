@@ -3,7 +3,8 @@
     "editor.fontSize": 17,
     "markdown.preview.fontFamily": "'游ゴシック', 'Source Han Code JP Light', -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', 'HelveticaNeue-Light', 'Ubuntu', 'Droid Sans', sans-serif",
     "markdown.preview.fontSize": 19,
-    "todohighlight.keywordsPattern": "TODO",
     "editor.renderWhitespace": "all",
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "workbench.startupEditor": "newUntitledFile",
+    "git.autofetch": true
 }
