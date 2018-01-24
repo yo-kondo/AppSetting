@@ -1,4 +1,4 @@
-# AppSetting
+# Memo_AppSettings
 ソフトウェアの設定ファイル
 
 ## VisualStudioCode  
