@@ -5,6 +5,11 @@
     "markdown.preview.fontSize": 19,
     "editor.renderWhitespace": "all",
     "editor.wordWrap": "on",
-    "workbench.startupEditor": "newUntitledFile",
-    "git.autofetch": true
+    "git.autofetch": true,
+    "markdownlint.ignore": [
+        "template.md"
+    ],
+    "markdown.styles": [
+        "markdown_styles.css"
+    ],
 }

@@ -1,0 +1,5 @@
+## 無視ルール
+# MD028: no-blanks-blockquote
+"MD028": false
+# MD029: ol-prefix
+"MD029": false
