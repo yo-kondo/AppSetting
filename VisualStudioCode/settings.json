@@ -12,4 +12,7 @@
     "markdown.styles": [
         "markdown_styles.css"
     ],
+    "window.zoomLevel": 0,
+    "breadcrumbs.enabled": true,
+    "files.autoSave": "afterDelay",
 }
