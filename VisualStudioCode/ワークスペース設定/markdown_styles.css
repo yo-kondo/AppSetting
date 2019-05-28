@@ -1,0 +1,28 @@
+html, body {
+    font-family: Meiryo, "Yu Gothic", sans-serif;
+}
+
+body {
+    font-size: 120% !important;
+}
+
+code, pre {
+    font-family: "Source Code Pro", monospace;
+}
+
+h2 {
+    padding-left: 15px;
+    padding-bottom: 0.3em;
+    font-size: 1.65em;
+    line-height: 1.225;
+    border-left: 10px solid #e0ffff;
+    border-bottom: 1px solid #ffffff;
+}
+
+h3 {
+    font-size: 1.3em;
+    line-height: 1.43;
+    padding: 5px;
+    border-left: 10px solid #fff0e0;
+    border-bottom: 1px solid #ffffff;
+}

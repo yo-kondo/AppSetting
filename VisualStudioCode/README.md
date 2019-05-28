@@ -1,25 +1,26 @@
 # VisualStudioCode
 
-## [.markdownlint.yaml](.markdownlint.yaml)
+## ユーザー設定
 
-拡張機能`markdownlint`の無視ルールを記載したファイル。  
-ワークスペース直下に配置する。
-
-## [extension.md](extension.md)
-
-インストールしている拡張機能の一覧。
-
-## [keybindings.json](keybindings.json)
-
-キーバインド（ショートカットキー）の設定ファイル。  
 `%APPDATA%\Code\User\` に配置する。
 
-## [markdown_styles.css](markdown_styles.css)
+* `settings.json`  
+  Visual Studio Codeのユーザー設定ファイル
+* `keybindings.json`  
+  キーバインド（ショートカットキー）の設定ファイル
 
-Markdownのプレビューのスタイル。  
-ワークスペース直下に配置する。
+## ワークスペース設定
 
-## [settings.json](settings.json)
+* `settings.json`  
+  Visual Studio Codeのワークスペース設定ファイル  
+  ワークスペース内の`.vscode`ディレクトリ内に配置
+* `markdown_styles.css`  
+  Markdownのプレビューのスタイル  
+  ワークスペース内の`.vscode`ディレクトリ内に配置
+* `.markdownlint.yaml`  
+  拡張機能`markdownlint`の無視ルールを記載したファイル  
+  ワークスペース直下に配置する。
 
-Visual Studio Codeの設定ファイル。  
-`%APPDATA%\Code\User\` に配置する。
+## 拡張機能の一覧
+
+* `extension.md`
