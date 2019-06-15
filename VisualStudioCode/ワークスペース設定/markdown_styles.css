@@ -2,9 +2,11 @@ html, body {
     font-family: Meiryo, "Yu Gothic", sans-serif;
 }
 
+/*
 body {
     font-size: 110% !important;
 }
+*/
 
 code, pre {
     font-family: Consolas, "Source Code Pro", monospace;
