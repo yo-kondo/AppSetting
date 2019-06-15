@@ -1,9 +1,0 @@
-## 無視ルール
-# MD028: no-blanks-blockquote
-"MD028": false
-# MD029: ol-prefix
-"MD029": false
-# MD013: Line length
-"MD013": false
-# MD033 - Inline HTML
-"MD033": false
