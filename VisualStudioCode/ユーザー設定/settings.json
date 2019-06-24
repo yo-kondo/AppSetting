@@ -6,9 +6,6 @@
     "editor.renderWhitespace": "all",
     "editor.wordWrap": "on",
     "git.autofetch": true,
-    "markdownlint.ignore": [
-        "template.md"
-    ],
     "window.zoomLevel": 0,
     "breadcrumbs.enabled": true,
     "files.autoSave": "afterDelay",

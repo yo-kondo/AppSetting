@@ -3,9 +3,13 @@
         ".vscode/markdown_styles.css"
     ],
     "markdownlint.config": {
+        "MD026": false,
         "MD028": false,
         "MD029": false,
         "MD013": false,
         "MD033": false,
-    }
+    },
+    "markdownlint.ignore": [
+        "template.md"
+    ],
 }
