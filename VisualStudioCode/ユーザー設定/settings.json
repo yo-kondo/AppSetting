@@ -1,8 +1,8 @@
 {
-    "editor.fontFamily": "'Source Han Code JP', Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "JetBrains Mono, 'Source Han Code JP', Consolas, 'Courier New', monospace",
     "editor.fontSize": 17,
     "markdown.preview.fontFamily": "'Meiryo', 'Yu Gothic', sans-serif",
-    "markdown.preview.fontSize": 19,
+    "markdown.preview.fontSize": 18,
     "editor.renderWhitespace": "all",
     "editor.wordWrap": "on",
     "git.autofetch": true,
@@ -11,4 +11,12 @@
     "files.autoSave": "afterDelay",
     "workbench.tree.indent": 20,
     "extensions.ignoreRecommendations": false,
+    "todo-tree.highlights.enabled": false,
+    "todo-tree.tree.showScanModeButton": false,
+    "[powershell]": {
+        "files.encoding": "shiftjis"
+    },
+    "[bat]": {
+        "files.encoding": "shiftjis"
+    },
 }
